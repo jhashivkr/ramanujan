@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/senecajs/ramanujan",
   "dependencies": {
-    "chairo": "2.2.1",
+    "chairo": "3.0.0",
     "handlebars": "4.0.5",
     "hapi": "15.0.3",
     "inert": "4.0.2",
@@ -31,7 +31,7 @@
     "memdown": "1.2.0",
     "moment": "2.14.1",
     "search-index": "0.8.15",
-    "seneca": "3.3.0",
+    "seneca": "3.9.0",
     "seneca-balance-client": "0.6.0",
     "seneca-basic": "0.5.0",
     "seneca-demo-logger": "0.2.0",
