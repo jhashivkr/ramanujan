@@ -30,7 +30,7 @@
     "lodash": "4.15.0",
     "memdown": "1.2.0",
     "moment": "2.14.1",
-    "search-index": "0.8.15",
+    "search-index": "1.0.0",
     "seneca": "3.3.0",
     "seneca-balance-client": "0.6.0",
     "seneca-basic": "0.5.0",
